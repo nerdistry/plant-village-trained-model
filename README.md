@@ -1,3 +1,4 @@
+
 # Plant Disease Classification Project Documentation
 
 ## Introduction
@@ -109,3 +110,4 @@ If you require the trained model in HDF5 (.h5) format, feel free to contact me, 
 ---
 
 Follow these steps to train your own plant disease classification model using TensorFlow and Keras. If you encounter any issues or have questions, do not hesitate to reach out.
+
